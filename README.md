@@ -1,1 +1,1 @@
-# ecotrade.github.io
+# showcasetemplate.github.io
